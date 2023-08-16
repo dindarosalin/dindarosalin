@@ -1,17 +1,27 @@
-### Hi there 👋
+# Hi there! 👋 I'm Dinda Rosalin
 
-**dindarosalin/dindarosalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a flair for creating seamless and user-friendly web applications. I specialize in JavaScript, Laravel, PHP, Bootstrap, and Figma. I thrive on turning ideas into beautiful and functional digital experiences.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently Freelancer
-- 🌱 I’m currently learning Software Enginering
-- 💬 Ask me about Collaboration and Projects at [email](dindarosalin2412@gmail.com)
-- 📫 Know more about me [linkedin](https://linkedin.com/in/dindarosalin)
+- 🎓 Studying Software Engineering to continuously enhance my skills.
+- 💻 Currently working as a Freelancer, crafting innovative solutions.
+- 🌱 Always eager to learn and explore new technologies.
 
-<p align="left">
-<a href="https://github.com/dindarosalin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## What I Do
+
+- 💡 Turn ideas into reality with elegant code and intuitive design.
+- 🌐 Develop responsive and interactive web applications.
+- 🛠️ Craft dynamic user experiences with a focus on performance and usability.
+
+## Get in Touch
+
+- 💬 Interested in collaborating on projects? Reach out to me via [email](mailto:dindarosalin2412@gmail.com).
+- 🌐 Learn more about me on [LinkedIn](https://linkedin.com/in/dindarosalin).
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dindarosalin)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/dindarosalin)
+
+Thanks for stopping by! Feel free to explore my repositories and don't hesitate to connect or collaborate.
