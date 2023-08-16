@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Freelancer
 - 🌱 I’m currently learning Software Enginering
-- 💬 Ask me about Collaboration and Projects
-- 📫 How to reach me [linkedin](https://linkedin.com/in/dindarosalin)
+- 💬 Ask me about Collaboration and Projects at [email](dindarosalin2412@gmail.com)
+- 📫 Know more about me [linkedin](https://linkedin.com/in/dindarosalin)
 
 <p align="left">
 <a href="https://github.com/dindarosalin">
