@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Software Engineer | Web Developer | Artist
+  Front End Web Dev | Software Engineer | Web Developer
 </p>
 
 <p align="center">  
