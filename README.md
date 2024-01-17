@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Front End Web Dev | Software Engineer | Web Developer
+  Front End Web Dev | Software Engineer | Web Development
 </p>
 
 <p align="center">  
@@ -14,14 +14,6 @@
 ## About Me
 
 - 🎓 Studying Software Engineering to continuously enhance my skills.
-- 💻 Currently working as a Freelancer, crafting innovative solutions.
-- 🌱 Always eager to learn and explore new technologies.
-
-## What I Do
-
-- 💡 Turn ideas into reality with elegant code and intuitive design.
-- 🌐 Develop responsive and interactive web applications.
-- 🛠️ Craft dynamic user experiences with a focus on performance and usability.
 
 ## 📬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dindarosalin/)
