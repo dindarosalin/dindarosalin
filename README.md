@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🎓 Studying Software Engineering to continuously enhance my skills.
+- 🎓 Studying Software Engineering
 
 ## 📬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dindarosalin/)
