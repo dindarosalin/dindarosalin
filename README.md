@@ -20,4 +20,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/dindarosalin/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/dindarosalin)
 
-Thanks for stopping by! Feel free to explore my repositories and don't hesitate to connect or collaborate.
+Thank You Guys, lets be moots
