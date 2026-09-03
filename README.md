@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Front End Web Developer | Software Engineer | Web Developer
+  IT| Risk Analyst | System Analyst | Web Developer
 </p>
 
 <p align="center">  
@@ -18,6 +18,5 @@
 ## 📬 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dindarosalin/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/dindarosalin/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/dindarosalin)
 
 Thank You Guys, lets be moots
