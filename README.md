@@ -17,7 +17,7 @@
 - 🎓 Software Engineering
 
 ## 📬 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://dindarosalin.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/any_text-you_like-blue)](https://dindarosalin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dindarosalin/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/dindarosalin/)
 
